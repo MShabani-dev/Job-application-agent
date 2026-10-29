@@ -1,0 +1,6 @@
+2026/10/28-20:42:06.797 2dac Reusing MANIFEST C:\job-agent\browser_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/28-20:42:06.798 2dac Recovering log #3
+2026/10/28-20:42:06.799 2dac Reusing old log C:\job-agent\browser_profile\Default\Local Storage\leveldb/000003.log 
+2026/10/28-20:44:14.635 5e8c Level-0 table #5: started
+2026/10/28-20:44:14.641 5e8c Level-0 table #5: 28773 bytes OK
+2026/10/28-20:44:14.648 5e8c Delete type=0 #3

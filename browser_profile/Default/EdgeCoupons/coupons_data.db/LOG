@@ -1,0 +1,6 @@
+2026/10/28-20:42:12.351 2c2c Reusing MANIFEST C:\job-agent\browser_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/10/28-20:42:12.352 2c2c Recovering log #4
+2026/10/28-20:42:12.352 2c2c Reusing old log C:\job-agent\browser_profile\Default\EdgeCoupons/coupons_data.db/000004.log 
+2026/10/28-20:42:14.905 4dc0 Level-0 table #8: started
+2026/10/28-20:42:14.907 4dc0 Level-0 table #8: 683376 bytes OK
+2026/10/28-20:42:14.912 4dc0 Delete type=0 #4

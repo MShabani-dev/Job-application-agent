@@ -1,0 +1,4 @@
+2026/10/28-21:02:28.955 4614 Reusing MANIFEST C:\job-agent\browser_profile_e-estekhdam\Default\Session Storage/MANIFEST-000001
+2026/10/28-21:02:28.956 4614 Recovering log #4
+2026/10/28-21:02:28.956 4614 (ignoring error) C:\job-agent\browser_profile_e-estekhdam\Default\Session Storage/000004.log: dropping 17386 bytes; Corruption: checksum mismatch
+2026/10/28-21:02:28.958 4614 Reusing old log C:\job-agent\browser_profile_e-estekhdam\Default\Session Storage/000004.log 

@@ -1,0 +1,58 @@
+2026-10-28 17:30:48.218: [INFO] CurrentProfilePath: C:\job-agent\browser_profile\Default
+2026-10-28 17:30:48.218: [INFO] Profiles total count: 1
+2026-10-28 17:30:48.219: [INFO] Profile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:30:48.208Z
+2026-10-28 17:30:48.219: [INFO] LastUsedProfileDir: C:\job-agent\browser_profile\Default
+2026-10-28 17:30:48.219: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:30:48.208Z
+2026-10-28 17:30:48.219: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 17:30:48.219: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 17:30:48.219: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 17:30:48.219: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 17:31:47.873: [INFO] CurrentProfilePath: C:\job-agent\browser_profile\Default
+2026-10-28 17:31:47.873: [INFO] Profiles total count: 1
+2026-10-28 17:31:47.873: [INFO] Profile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:31:47.858Z
+2026-10-28 17:31:47.873: [INFO] LastUsedProfileDir: C:\job-agent\browser_profile\Default
+2026-10-28 17:31:47.873: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:31:47.858Z
+2026-10-28 17:31:47.873: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 17:31:47.873: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 17:31:47.873: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 17:31:47.873: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 17:33:45.445: [INFO] CurrentProfilePath: C:\job-agent\browser_profile\Default
+2026-10-28 17:33:45.445: [INFO] Profiles total count: 1
+2026-10-28 17:33:45.446: [INFO] Profile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:33:45.428Z
+2026-10-28 17:33:45.446: [INFO] LastUsedProfileDir: C:\job-agent\browser_profile\Default
+2026-10-28 17:33:45.446: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:33:45.428Z
+2026-10-28 17:33:45.446: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 17:33:45.446: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 17:33:45.446: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 17:33:45.446: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 17:35:06.497: [INFO] CurrentProfilePath: C:\job-agent\browser_profile\Default
+2026-10-28 17:35:06.497: [INFO] Profiles total count: 1
+2026-10-28 17:35:06.498: [INFO] Profile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:35:06.484Z
+2026-10-28 17:35:06.498: [INFO] LastUsedProfileDir: C:\job-agent\browser_profile\Default
+2026-10-28 17:35:06.498: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:35:06.484Z
+2026-10-28 17:35:06.498: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 17:35:06.498: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 17:35:06.498: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 17:35:06.498: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 17:36:20.011: [INFO] CurrentProfilePath: C:\job-agent\browser_profile\Default
+2026-10-28 17:36:20.011: [INFO] Profiles total count: 1
+2026-10-28 17:36:20.011: [INFO] Profile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:36:19.997Z
+2026-10-28 17:36:20.011: [INFO] LastUsedProfileDir: C:\job-agent\browser_profile\Default
+2026-10-28 17:36:20.011: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T17:36:19.997Z
+2026-10-28 17:36:20.011: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 17:36:20.011: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 17:36:20.011: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 17:36:20.011: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 17:36:31.199: [INFO] VisibilityChanged: 0
+2026-10-28 17:43:53.038: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 19:42:07.469: [INFO] CurrentProfilePath: C:\job-agent\browser_profile\Default
+2026-10-28 19:42:07.469: [INFO] Profiles total count: 1
+2026-10-28 19:42:07.469: [INFO] Profile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T19:42:07.452Z
+2026-10-28 19:42:07.469: [INFO] LastUsedProfileDir: C:\job-agent\browser_profile\Default
+2026-10-28 19:42:07.469: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\job-agent\browser_profile\Default lastActive=2026-10-28T19:42:07.452Z
+2026-10-28 19:42:07.469: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 19:42:07.469: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 19:42:07.469: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 19:42:07.469: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 19:42:14.649: [INFO] VisibilityChanged: 0
+2026-10-28 19:44:55.457: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

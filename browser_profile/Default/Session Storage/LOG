@@ -1,0 +1,13 @@
+2026/10/28-20:42:07.460 2dac Creating DB C:\job-agent\browser_profile\Default\Session Storage since it was missing.
+2026/10/28-20:42:07.473 2dac Reusing MANIFEST C:\job-agent\browser_profile\Default\Session Storage/MANIFEST-000001
+2026/10/28-20:43:25.469 477c Level-0 table #5: started
+2026/10/28-20:43:25.477 477c Level-0 table #5: 32191 bytes OK
+2026/10/28-20:43:25.490 477c Delete type=0 #3
+2026/10/28-20:44:14.637 d3c Level-0 table #7: started
+2026/10/28-20:44:14.647 d3c Level-0 table #7: 28270 bytes OK
+2026/10/28-20:44:14.650 d3c Delete type=0 #4
+2026/10/28-20:44:55.462 2dac Level-0 table #9: started
+2026/10/28-20:44:55.465 2dac Level-0 table #9: 27946 bytes OK
+2026/10/28-20:44:55.471 2dac Delete type=0 #6
+2026/10/28-20:44:55.487 477c Level-0 table #11: started
+2026/10/28-20:44:55.495 477c Level-0 table #11: 28044 bytes OK
